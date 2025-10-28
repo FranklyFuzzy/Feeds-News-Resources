@@ -4,8 +4,11 @@
     <title>Feeds from Inoreader [https://www.inoreader.com]</title>
   </head>
   <body>
-    <outline text="Tech News" title="Tech News">
+    <outline text="Other" title="Other">
+      <outline text="Mitchell Hashimoto" title="Mitchell Hashimoto" type="rss" xmlUrl="https://mitchellh.com/feed.xml" htmlUrl="https://mitchellh.com/writing"/>
       <outline text="Steph Ango" title="Steph Ango" type="rss" xmlUrl="https://stephango.com/feed.xml" htmlUrl="https://stephango.com/"/>
+    </outline>
+    <outline text="Tech News" title="Tech News">
       <outline text="GeekWireGeekWire" title="GeekWireGeekWire" type="rss" xmlUrl="https://www.geekwire.com/feed/" htmlUrl="https://www.geekwire.com"/>
       <outline text="The Information" title="The Information" type="rss" xmlUrl="https://www.theinformation.com/feed" htmlUrl="https://www.theinformation.com/"/>
       <outline text="Futurism" title="Futurism" type="rss" xmlUrl="https://futurism.com/feed" htmlUrl="https://futurism.com/"/>
@@ -20,6 +23,9 @@
       <outline text="Ars Technica" title="Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com/"/>
     </outline>
     <outline text="Cybersecurity" title="Cybersecurity">
+      <outline text="BleepingComputer" title="BleepingComputer" type="rss" xmlUrl="https://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/forums/f/2/news/"/>
+      <outline text="SecurityWeek" title="SecurityWeek" type="rss" xmlUrl="https://www.securityweek.com/feed/" htmlUrl="https://www.securityweek.com/"/>
+      <outline text="The Record by Recorded Future" title="The Record by Recorded Future" type="rss" xmlUrl="https://therecord.media/feed" htmlUrl="https://therecord.media/"/>
       <outline text="0dayfans" title="0dayfans" type="rss" xmlUrl="https://0dayfans.com/feed.rss" htmlUrl="https://0dayfans.com/"/>
       <outline text="We Live Security » Languages » English" title="We Live Security » Languages » English" type="rss" xmlUrl="https://feeds.feedburner.com/eset/blog" htmlUrl="https://www.welivesecurity.com/"/>
       <outline text="Ulusal Siber Olaylara Müdahale Merkezi (USOM) Duyurular" title="Ulusal Siber Olaylara Müdahale Merkezi (USOM) Duyurular" type="rss" xmlUrl="https://www.usom.gov.tr/rss/duyuru.rss" htmlUrl="http://usom.gov.tr/"/>
@@ -52,10 +58,12 @@
       <outline text="MySQL Performance Blog" title="MySQL Performance Blog" type="rss" xmlUrl="https://www.percona.com/blog/feed/" htmlUrl="http://www.percona.com/blog"/>
     </outline>
     <outline text="Podcasts" title="Podcasts">
+      <outline text="Click Here" title="Click Here" type="rss" xmlUrl="https://publicfeeds.net/f/8376/clickhere" htmlUrl="http://www.recordedfuture.com/podcast"/>
+      <outline text="The 404 Media Podcast" title="The 404 Media Podcast" type="rss" xmlUrl="https://feeds.megaphone.fm/TBIEA2761282490" htmlUrl="https://shows.acast.com/the-404-media-podcast"/>
+      <outline text="How to Fix the Internet" title="How to Fix the Internet" type="rss" xmlUrl="https://feeds.eff.org/howtofixtheinternet" htmlUrl="https://www.eff.org/how-to-fix-the-internet-podcast"/>
       <outline text="The CyberWire Daily" title="The CyberWire Daily" type="rss" xmlUrl="https://feeds.megaphone.fm/cyberwire-daily-podcast" htmlUrl="https://thecyberwire.com/podcasts/daily-podcast"/>
       <outline text="Career Notes" title="Career Notes" type="rss" xmlUrl="https://feeds.megaphone.fm/cyberwire-career-notes" htmlUrl="https://thecyberwire.com/podcasts/career-notes"/>
       <outline text="Cybersecurity Today" title="Cybersecurity Today" type="rss" xmlUrl="https://feeds.libsyn.com/118065/rss" htmlUrl="https://www.itworldcanada.com/"/>
-      <outline text="The Record by Recorded Future" title="The Record by Recorded Future" type="rss" xmlUrl="https://therecord.media/feed" htmlUrl="https://therecord.media/"/>
       <outline text="401: unAIthorized stories" title="401: unAIthorized stories" type="rss" xmlUrl="https://media.rss.com/401-unaithorized-stories/feed.xml" htmlUrl="https://meet.ventionteams.com/"/>
       <outline text="SANS Internet Storm Center Daily Network Security and Computer Security Podcast" title="SANS Internet Storm Center Daily Network Security and Computer Security Podcast" type="rss" xmlUrl="https://isc.sans.edu/dailypodcast.xml" htmlUrl="https://isc.sans.edu/podcast.html#stormcast"/>
       <outline text="Darknet Diaries" title="Darknet Diaries" type="rss" xmlUrl="https://podcast.darknetdiaries.com/" htmlUrl="https://darknetdiaries.com/"/>
